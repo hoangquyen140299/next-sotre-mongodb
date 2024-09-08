@@ -13,11 +13,6 @@ function AboutPage() {
                 repellat, magni fugiat minima excepturi neque, tenetur possimus
                 nihil atque! Culpa nulla labore nam?
             </p>
-            <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Doloremque nihil officia blanditiis, voluptate neque
-                consectetur? Expedita dignissimos consequuntur facilis ipsa.
-            </p>
         </section>
     );
 }
