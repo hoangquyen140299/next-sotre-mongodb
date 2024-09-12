@@ -1,7 +1,7 @@
-"use client";
+'use client';
 
-import { Card, CardHeader } from "@/components/ui/card";
-import { Skeleton } from "@/components/ui/skeleton";
+import { Card, CardHeader } from '@/components/ui/card';
+import { Skeleton } from '@/components/ui/skeleton';
 
 function loading() {
     return (
@@ -11,6 +11,8 @@ function loading() {
         </section>
     );
 }
+
+//test
 
 const ReviewLoadingCard = () => {
     return (
